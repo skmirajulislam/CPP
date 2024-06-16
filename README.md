@@ -1,4 +1,4 @@
-# C_plus_plus-Miraj
+# C++ 
 🚀Welcome to my C++ Repository🎉
 
 Dive into a world of elegant algorithms, sleek data structures, and efficient C++ code in my GitHub repository. 📦 Whether you're a novice programmer or a seasoned developer, you'll find a treasure trove of carefully crafted C++ projects that will sharpen your skills and ignite your passion for coding. 💻✨
